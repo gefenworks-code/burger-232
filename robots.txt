@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://burger232.co.il/sitemap.xml
